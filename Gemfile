@@ -7,6 +7,9 @@ gem 'rails', '3.0.7'
 
 gem 'mysql2'
 
+# for user authentication
+gem 'devise'
+
 # Use unicorn as the web server
 # gem 'unicorn'
 
